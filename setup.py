@@ -41,7 +41,7 @@ setuptools.setup(
     },
     entry_points={
         'console_scripts': [
-            'bazel-workspace-python=bazel_workspaces_python.cli:main',
+            'bazel-workspaces-python=bazel_workspaces_python.cli:main',
         ],
     },
 )
