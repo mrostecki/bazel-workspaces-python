@@ -19,7 +19,6 @@ setuptools.setup(
     name='bazel-workspaces-python',
     version='0.1.0',
     description='Generator of Bazel workspaces for Python modules',
-    long_description=long_description,
     url='https://github.com/kubic-project/bazel-workspaces-python',
     author='Michal Rostecki',
     author_email='mrostecki@opensuse.org',
