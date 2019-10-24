@@ -17,7 +17,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 
 setuptools.setup(
     name='bazel-workspaces-python',
-    version='0.1.1',
+    version='0.1.2',
     description='Generator of Bazel workspaces for Python modules',
     url='https://github.com/kubic-project/bazel-workspaces-python',
     author='Michal Rostecki',
